@@ -1,0 +1,41 @@
+# Build directories
+build/
+cmake-build-debug/
+cmake-build-release/
+out/
+dist/
+
+# IDEs
+.vscode/
+.idea/
+*.xcodeproj/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Compiled objects
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dylib
+*.dll
+*.exe
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Binaries
+bin/
+Network*
+.clang-format
+.clangformat
+
+# Documentation/Setup (not part of project)
+GITHUB_UPLOAD_INSTRUCTIONS.md
+IMPLEMENTATION_SUMMARY.md
